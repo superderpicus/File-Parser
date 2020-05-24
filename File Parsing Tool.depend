@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1590198836 source:f:\projects\file parsing tool\blowfish.cpp
+	<cstring>
+	<exception>
+	"Blowfish.h"
+
+1590299350 f:\projects\file parsing tool\blowfish.h
+	"stdlib.h"
+
+1590307961 source:f:\projects\file parsing tool\main.cpp
+	"Blowfish.h"
+	"Keys.h"
+	<iostream>
+	"string.h"
+	<sys/stat.h>
+	<conio.h>
+	<vector>
+	<fstream>
+	<filesystem>
+
+1590299343 f:\projects\file parsing tool\keys.h
+	<map>
+
